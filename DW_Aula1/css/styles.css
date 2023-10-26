@@ -1,0 +1,51 @@
+#master {
+  width: 800px;
+  height: 600px;
+  border: 1px solid blueviolet;
+}
+
+#master #topo {
+  width: 780px;
+  height: 25px;
+  border: 1px solid red;
+  margin: 5px 7px 5px 7px;
+}
+
+#master #topo ul {
+  list-style-type: none;
+  width: auto;
+  margin: 0px;
+  padding: 0px;
+  float: left;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15px;
+  line-height: 25px;
+}
+
+#master #topo ul li {
+  float: left;
+  width: 240px;
+  border: 0px solid black;
+  margin: 0px;
+  text-align: center;
+}
+
+#master #topo ul li a {
+  text-decoration: none;
+}
+
+#master #menu {
+  width: 80px;
+  height: 540px;
+  border: 1px solid yellow;
+  margin: 5px 0px 0px 7px;
+  float: left;
+}
+
+#master #conteudo{
+  width: 687px;
+  height: 540px;
+  border: 1px solid green;
+  margin: 5px 0px 0px 7px;
+  float: left;
+}
