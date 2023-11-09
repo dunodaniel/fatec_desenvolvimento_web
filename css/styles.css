@@ -49,3 +49,15 @@
   margin: 5px 0px 0px 7px;
   float: left;
 }
+
+#master #menu ul {
+  list-style-type: none;
+  width: auto;
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15px;
+  line-height: 25px;
+  text-align: center;
+}
+
